@@ -1,0 +1,11 @@
+{
+  "name": "movie-challenge",
+  "version": "1.0.0",
+  "description": "- [1. Preámbulo](#1-preambulo)\r - [2. Resumen del proyecto](#2-resumen-del-proyecto)\r - [3. Consideraciones generales](#3-consideraciones-generales)\r - [4. Objetivos de aprendizaje](#4-objetivos-de-aprendizaje)\r - [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)\r - [6. Consideraciones técnicas](#6-consideraciones-tecnicas)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Gomez",
+  "license": "ISC"
+}
