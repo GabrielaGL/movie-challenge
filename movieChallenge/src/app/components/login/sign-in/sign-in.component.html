@@ -10,6 +10,27 @@
                 <label>
                     <h3> Regístrate </h3>
                 </label>
+
+                <div class="inputContainer">
+                    <input type="text" class="input" placeholder="">
+                    <label for="" class="label">Nombre de usuario</label>
+                </div>
+
+                <div class="inputContainer">
+                    <input type="email" class="input" placeholder="">
+                    <label for="" class="label">Email</label>
+                </div>
+
+                <div class="inputContainer">
+                    <input type="password" class="input" placeholder="">
+                    <label for="" class="label">Contraseña</label>
+                </div>
+
+                <button class="btn-classic">Registrarme</button>
+
+                <a [routerLink]="['/login']" class="anchor">
+                    <p> ¿Ya tienes una cuenta? Inicia Sesión</p>
+                </a>
             </form>
         </div>
 
